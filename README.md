@@ -121,6 +121,14 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
       <td><img alt="Issues" src="https://img.shields.io/github/issues/1336037686/learn-hub?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1336037686/learn-hub?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/1336037686/read-note-hub"><b>Learn Hub</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1336037686/read-note-hub?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1336037686/read-note-hub?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1336037686/read-note-hub?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1336037686/read-note-hub?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+   
   </tbody>
 </table>
 
