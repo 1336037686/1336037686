@@ -1,14 +1,44 @@
-<link rel="stylesheet" type="text/css" href="./beautiful.css">
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋, I'm LGX_TvT! Nice to see you.</h1>
 
-### _Hi there 👋, I'm LGX_TvT !
-
-I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
+<p>
+Welcome to my page! </br>
+I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here. 
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:linguoxiang1997@163.com)
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:l1336037686@gmail.com)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)]()
+</p>
 
-- 🚀 I use daily:
+<h3>Things I code with</h3>
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/-Maven-FB542B?style=flat-square&logo=apache&logoColor=white" />  
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-5849BE?style=flat-square&logo=spring&logoColor=white" />  
+  <img alt="Spring Cloud" src="https://img.shields.io/badge/-Spring_Cloud-2088FF?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-1a73e8?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-311C87?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Oracle" src="  https://img.shields.io/badge/-Oracle-764ABC?style=flat-square&logo=Oracle&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-ea2845?style=flat-square&logo=mysql&logoColor=white" />  
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-EC4A3F?style=flat-square&logo=rabbitMQ&logoColor=white" />  
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-CC6699?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Shell" src="https://img.shields.io/badge/-Shell-db7092?style=flat-square&logo=shell&logoColor=white" />  
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-Sass-E10098?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F9A03C?style=flat-square&logo=JavaScript&logoColor=white" />  
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-B7178C?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
+  <img alt="Python" src="https://img.shields.io/badge/-Python-DD0031?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+
+<!-- - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](http://www.lgxcode.top/)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](http://www.lgxcode.top/)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](http://www.lgxcode.top/)
@@ -41,7 +71,10 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   [![V8](https://img.shields.io/badge/-V8-3DDC84?logo=v8&logoColor=4788F4)](http://www.lgxcode.top/)
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](http://www.lgxcode.top/)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](http://www.lgxcode.top/)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](http://www.lgxcode.top/)
+  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](http://www.lgxcode.top/) -->
+
+
+
 
 
 Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/1336037686/count.svg)](http://www.lgxcode.top/) visitor, Thank You!🎉🎉
@@ -55,7 +88,45 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/13360376
 
 
 
-### My Skill Set
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+<!-- ### My Skill Set
 <table><tr><td valign="top" width="33%">
 
 
@@ -103,7 +174,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/13360376
 </div>
 </td>
 </tr>
-</table>
+</table> -->
 
 <br/>
 <div align="center">
