@@ -17,7 +17,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   <img alt="Spring Cloud" src="https://img.shields.io/badge/-Spring_Cloud-2088FF?style=flat-square&logo=spring&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-1a73e8?style=flat-square&logo=redis&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-311C87?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Oracle" src="  https://img.shields.io/badge/-Oracle-764ABC?style=flat-square&logo=Oracle&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-764ABC?style=flat-square&logo=Oracle&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-ea2845?style=flat-square&logo=mysql&logoColor=white" />  
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-EC4A3F?style=flat-square&logo=rabbitMQ&logoColor=white" />  
