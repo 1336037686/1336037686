@@ -9,7 +9,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)]()
 </p>
 
-<h3>Things I code with</h3>
+<h2>★ Things I code with</h2>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/-Maven-FB542B?style=flat-square&logo=apache&logoColor=white" />  
@@ -75,7 +75,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 
 
-<h3>Statistical data</h3>
+<h2>★ Statistical data</h2>
 <p style="display: flex; align-items: center;">
     <span style="margin-right: 10px;">Number of visitors:</span>
     <img alt="count" src="https://profile-counter.glitch.me/1336037686/count.svg" />
@@ -88,7 +88,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 </p>
 
 
-<h3>Open source projects</h3>
+<h2>★ Open source projects</h2>
 <table>
   <thead align="center">
     <tr border: none;>
