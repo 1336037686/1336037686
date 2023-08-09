@@ -97,6 +97,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
+      <td><b>🔖 Remark</b></td>
     </tr>
   </thead>
   <tbody>
@@ -106,13 +107,15 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1336037686/jyadmin?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/1336037686/jyadmin?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1336037686/jyadmin?style=flat-square&labelColor=343b41"/></td>
+      <td>简意后台管理系统脚手架</td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/1336037686/exploration-project-demos"><b>Exploration project demos</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1336037686/exploration-project-demos?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1336037686/exploration-project-demos?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/1336037686/exploration-project-demos?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1336037686/exploration-project-demos?style=flat-square&labelColor=343b41"/></td>
+      <td>个人探索项目</td>	  
     </tr>
     <tr>
       <td><a href="https://github.com/1336037686/learn-hub"><b>Learn Hub</b></a></td>
@@ -120,6 +123,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1336037686/learn-hub?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/1336037686/learn-hub?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1336037686/learn-hub?style=flat-square&labelColor=343b41"/></td>
+      <td>拓展学习合集</td>
     </tr>
     <tr>
       <td><a href="https://github.com/1336037686/read-note-hub"><b>Read Note Hub</b></a></td>
@@ -127,6 +131,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1336037686/read-note-hub?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/1336037686/read-note-hub?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1336037686/read-note-hub?style=flat-square&labelColor=343b41"/></td>
+      <td>阅读摘录仓库</td>    
     </tr>
    
   </tbody>
