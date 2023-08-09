@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋, I'm LGX_TvT! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋! I'm LGX_TvT, Nice to see you. 🍉🍉🍉 </h1>
 
 <p>
 Welcome to my page! </br>
@@ -76,7 +76,10 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 
 <h3>Statistical data</h3>
-<p>Number of visitors:  <img alt="count" src="https://profile-counter.glitch.me/1336037686/count.svg" />
+<p style="display: flex; align-items: center;">
+    <span style="margin-right: 10px;">Number of visitors:</span>
+    <img alt="count" src="https://profile-counter.glitch.me/1336037686/count.svg" />
+</p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
 <p>
