@@ -75,17 +75,15 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 
 
-
-
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/1336037686/count.svg)](http://www.lgxcode.top/) visitor, Thank You!🎉🎉
-
+<h3>Statistical data</h3>
+<p>Number of visitors: [![Visitor Count](https://profile-counter.glitch.me/1336037686/count.svg)](http://www.lgxcode.top/) 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
-
+<p>
 [
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1336037686&layout=compact" height=145 /></span>
 <span><img src="https://github-readme-stats.vercel.app/api?username=1336037686&count_private=true&show_icons=true" height=145 style="margin-left: 5px" /></span>
 ](http://www.lgxcode.top/)
-
+</p>
 
 
 <h3>Open source projects</h3>
