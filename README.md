@@ -76,13 +76,12 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 
 <h3>Statistical data</h3>
-<p>Number of visitors: [![Visitor Count](https://profile-counter.glitch.me/1336037686/count.svg)](http://www.lgxcode.top/) 
+<p>Number of visitors:  <img alt="count" src="https://profile-counter.glitch.me/1336037686/count.svg" />
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
 <p>
-[
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1336037686&layout=compact" height=145 /></span>
-<span><img src="https://github-readme-stats.vercel.app/api?username=1336037686&count_private=true&show_icons=true" height=145 style="margin-left: 5px" /></span>
-](http://www.lgxcode.top/)
+  <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1336037686&layout=compact" height=145 /></span>
+  <span><img src="https://github-readme-stats.vercel.app/api?username=1336037686&count_private=true&show_icons=true" height=145 style="margin-left: 5px" /></span>
 </p>
 
 
@@ -99,25 +98,25 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/1336037686/jyadmin"><b>jyadmin</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1336037686/jyadmin?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1336037686/jyadmin?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1336037686/jyadmin?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1336037686/jyadmin?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/1336037686/exploration-project-demos"><b>Exploration project demos</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1336037686/exploration-project-demos?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1336037686/exploration-project-demos?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1336037686/exploration-project-demos?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1336037686/exploration-project-demos?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/1336037686/learn-hub"><b>Learn Hub</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1336037686/learn-hub?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1336037686/learn-hub?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1336037686/learn-hub?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1336037686/learn-hub?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
