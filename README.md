@@ -133,7 +133,14 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1336037686/read-note-hub?style=flat-square&labelColor=343b41"/></td>
       <td>阅读摘录仓库</td>    
     </tr>
-   
+    <tr>
+      <td><a href="https://github.com/1336037686/algorithm-practice"><b>Algorithm Practice</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/1336037686/algorithm-practice?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/1336037686/algorithm-practice?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/1336037686/algorithm-practice?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/1336037686/algorithm-practice?style=flat-square&labelColor=343b41"/></td>
+      <td>算法刷题记录</td>    
+    </tr>
   </tbody>
 </table>
 
