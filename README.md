@@ -194,14 +194,11 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 </div>
 </td>
 </tr>
-</table> -->
+</table> 
 
 <br/>
 <div align="center">
-  <a href="https://raw.githubusercontent.com/1336037686/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square"
-        align="center"
+    <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" align="center"
     />
-  </a>
 </div>
+-->
