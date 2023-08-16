@@ -110,7 +110,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
       <td>简意后台管理系统脚手架</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/1336037686/exploration-project-demos"><b>Exploration project demos</b></a></td>
+      <td><a href="https://github.com/1336037686/exploration-project-demos"><b>Exploration Project Demos</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/1336037686/exploration-project-demos?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/1336037686/exploration-project-demos?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/1336037686/exploration-project-demos?style=flat-square&labelColor=343b41"/></td>
